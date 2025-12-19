@@ -1,7 +1,7 @@
 import dadi, os
 import numpy as np
 
-### First run Rscript_binning to generate files with the full SFS: each line is a group
+### First run Rscript_GenerateGeneBinSFS to generate files with the full SFS: each line is a group
 ### Then use this script to produce PolyDFE input files per group- Stats should match the names of the files,
 ### which should all have the same filepath, as specified in synfile and nonsynfile.
 
