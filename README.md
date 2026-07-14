@@ -10,14 +10,12 @@ Files for Capsella grandiflora
 
 
 Original names
-A thaliana: CoeffVarfpkm, connec, express, NetworkConnectivity, fpkm
-C grandiflora: aranetconnec, aranetconneccorrec, express, norm.exp
+A thaliana: CoeffVarfpkm, connec, express, NetworkConnectivity, fpkm, GOTermCount (PolyDFE10 only)
 
-Rename:
-A thaliana: CoeffVarFpkm, conneccorrec, expresscorrec, NetworkConnectivity, fpkm
-C grandiflora: NetworkConnectivity, conneccorrec, expresscorrec, NormExpression
+C grandiflora: aranetconnec, aranetconneccorrec, express, norm.exp, GOTermCount (PolyDFE10 only)
 
-PolyDFE10
-A thaliana: GOTermCount
-C grandiflora: GOTermCount 
+Renamed for downstream analysis:
+A thaliana: CoeffVarFpkm, conneccorrec, expresscorrec, NetworkConnectivity, fpkm, GOTermCount (PolyDFE10 only)
+
+C grandiflora: NetworkConnectivity, conneccorrec, expresscorrec, NormExpression, GOTermCount (PolyDFE10 only)
 
