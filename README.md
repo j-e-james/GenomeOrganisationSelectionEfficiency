@@ -9,8 +9,7 @@ GroupingCapsella folder:
 Files for Capsella grandiflora
 
 Data for the per-gene estimates of genome biology features used in this analysis, plus per gne estimates of pi0 (piN) and pi4 (piS) are:
-Pi_Biology_byGene_Athaliana.csv
-Pi_Biology_byGene_Capsella.csv
+Pi_Biology_byGene_Athaliana.csv and Pi_Biology_byGene_Capsella.csv.
 These files were written using the steps shown in ArabidopsisGenomeAnalysis.R and CapsellaGenomeAnalysis.R
 
 ###Note on names
