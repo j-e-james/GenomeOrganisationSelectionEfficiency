@@ -1,4 +1,7 @@
 This project also used other general scripts to generate an unfolded SFS using EstSFS output- these are available in GeneralScripts.
+This project also used GeneralScripts/AnnotateRef_CodonDegeneracy.py for site annotation.
+
+Details of per-gene estimates of pi0 and pi0/pi4 calculation are available in CapsellaGenomeAnalysis.R and ArabidopsisGenomeAnalysis.R
 
 Primary figures filename records:
 
